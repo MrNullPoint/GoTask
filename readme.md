@@ -298,4 +298,4 @@ func (t *TaskUnit) Delete(args string, resp *bool) error {
 
 因为是 Demo 所以目前没有实现配置功能，有兴趣的小伙伴可以实现一下。
 
-代码地址：
+代码地址：https://github.com/MrNullPoint/GoTask.git
